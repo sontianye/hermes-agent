@@ -1,0 +1,23 @@
+tests/agent/test_prompt_builder.py
+  fb0b42868dd4fe0d 527-529,547-552,587,590,601-603,1242,1255,1266,1281,1295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.15",
+  "base_commit_sha": "b55362c31999278f79cd4a5106c8cba1b422e908",
+  "prompts": {
+    "fb0b42868dd4fe0d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3464d2b0-6a5b-49f5-99dd-eed9ac38ecb9",
+        "model": "claude-sonnet-4.6"
+      },
+      "human_author": "Tianye Song",
+      "messages": [],
+      "total_additions": 19,
+      "total_deletions": 27,
+      "accepted_lines": 19,
+      "overriden_lines": 0
+    }
+  }
+}
