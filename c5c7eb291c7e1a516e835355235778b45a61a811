@@ -1,0 +1,23 @@
+agent/conversation_loop.py
+  e562e4308764f8d5 840-847
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.20",
+  "base_commit_sha": "c5c7eb291c7e1a516e835355235778b45a61a811",
+  "prompts": {
+    "e562e4308764f8d5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24da7358-5cd9-4d42-ab04-462a7b18ad6a",
+        "model": "claude-sonnet-4.6"
+      },
+      "human_author": "Tianye Song",
+      "messages": [],
+      "total_additions": 8,
+      "total_deletions": 0,
+      "accepted_lines": 8,
+      "overriden_lines": 0
+    }
+  }
+}
